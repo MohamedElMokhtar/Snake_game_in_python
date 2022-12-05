@@ -17,7 +17,7 @@ blue = (50, 153, 213)
 window_width = 600
 window_height = 400
 window = pygame.display.set_mode((window_width, window_height))
-pygame.display.set_caption('Snake Game by Edureka')
+pygame.display.set_caption('Snake Game by Mohamed')
 
 # to track time 
 clock = pygame.time.Clock()
